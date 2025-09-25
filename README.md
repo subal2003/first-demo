@@ -1,2 +1,2 @@
 # first-demo
-its is a demo repo for try how repos are works.
+its is a demo repo for try how repos are works.if any mistake happend. please ignor that...
